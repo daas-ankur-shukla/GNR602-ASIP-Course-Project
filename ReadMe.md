@@ -2,16 +2,16 @@
 
 # About The Code
 
-** Algorithm Used ** : Genetic Algorithm
+**Algorithm Used** : Genetic Algorithm
 
-** Dataset Used ** : [Indian Pines](http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes)
+**Dataset Used** : [Indian Pines](http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes)
 
-** Requirements ** :
+**Requirements** :
+
 	* Python 2.7
 	* Scikit-learn
 
-** Hyperparameters ** :
--------------------------
+**Hyperparameters** :
 
 1. Crossover probability = 0.8
 
