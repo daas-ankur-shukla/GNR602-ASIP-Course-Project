@@ -13,10 +13,10 @@
 
 **Hyperparameters** :
 
-1. Crossover probability = 0.8
+	* Crossover probability = 0.8
 
-2. Mutation probability = 0.2
+	* Mutation probability = 0.2
 
-3. Candidate size = 10 bands
+	* Candidate size = 10 bands
 
-4. Population size = 220/10 = 22 candidates at a time.
+	* Population size = 220/10 = 22 candidates at a time.
